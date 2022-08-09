@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quest-react-basico/static/css/main.8137c2df.css",
+    "main.js": "/quest-react-basico/static/js/main.25c24f65.js",
+    "index.html": "/quest-react-basico/index.html",
+    "main.8137c2df.css.map": "/quest-react-basico/static/css/main.8137c2df.css.map",
+    "main.25c24f65.js.map": "/quest-react-basico/static/js/main.25c24f65.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8137c2df.css",
+    "static/js/main.25c24f65.js"
+  ]
+}
